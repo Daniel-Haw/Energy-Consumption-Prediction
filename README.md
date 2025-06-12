@@ -1,3 +1,4 @@
+#Energy Consumption Prediction
 A machine learning regression model to forecast energy usage
 
 🚀 Project Overview
